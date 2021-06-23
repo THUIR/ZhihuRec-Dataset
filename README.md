@@ -18,7 +18,7 @@ ZhihuRec dataset is collected from a knowledge-sharing platform (Zhihu), which i
 
 ZhihuRec dataset can be downloaded from [here](https://cloud.tsinghua.edu.cn/d/d6c045c55aa14bb39ebc/), and it is for the paper:
 
-Bin Hao, Min Zhang, Weizhi Ma, Shaoyun Shi, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma, 2021, A Large-Scale Rich Context Query and Recommendation Dataset in Online Knowledge-Sharing. arXiv preprint arXiv:2106.06467.
+[Bin Hao, Min Zhang, Weizhi Ma, Shaoyun Shi, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma, 2021, A Large-Scale Rich Context Query and Recommendation Dataset in Online Knowledge-Sharing. arXiv preprint arXiv:2106.06467.](https://arxiv.org/abs/2106.06467)
 
 please cite the paper if you use this dataset:
 
