@@ -33,4 +33,4 @@ please cite the paper if you use this dataset:
 
 ## Contact
 This dataset is for research use only.
-If you have any problem about this work or dataset, please contact with Min Zhang at z-m@tsinghua.edu.cn.
+If you have any problem about this work or dataset, please contact with Bin Hao at haobin9527@qq.com.
