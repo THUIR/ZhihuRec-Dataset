@@ -12,7 +12,8 @@ ZhihuRec dataset is collected from a knowledge-sharing platform (Zhihu), which i
 - **question_infos.txt**             (30.7M)---               the features of the questions occured in the dataset        
 - **author_infos.txt**                (11.2M)---               the features of the authors occured in the dataset 
 - **topic_infos.txt**                 (6.11M)---               the features of the topics occured in the dataset
-
+- **readme.txt**                                               detailed description of the above files                              
+- **readme_Chinese.txt**                                       detailed description of the above files (in Chinese) 
 
 ## Citation
 
